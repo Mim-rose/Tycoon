@@ -5,7 +5,7 @@ Tycoon is a modern, responsive web platform built to showcase **smart home and k
 ---
 
 ## 🔗 Live Demo
-👉 [View Tycoon on Vercel](https://your-vercel-link-here)  
+👉 [View Tycoon on Vercel](https://tycoon-bd1b.vercel.app)  
 
 
 ---
