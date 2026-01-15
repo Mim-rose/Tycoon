@@ -6,6 +6,7 @@ import RegisterPage from "../pages/RegisterPage";
 import HomePage from "../pages/HomePage";
 import CategoryPage from "../pages/CategoryPage";
 import ProductDetails from "../pages/ProductDetails";
+import SearchResultsPage from "../pages/SearchResultsPage";
 
 
 const AppRoutes = () => {
@@ -19,6 +20,8 @@ const AppRoutes = () => {
       {/* AUTH */}
       <Route path="/login" element={<LoginPage />} />
       <Route path="/register" element={<RegisterPage />} />
+
+      <Route path="/search" element={<SearchResultsPage/>} />
 
       {/* PROTECTED */}
       {/* <Route

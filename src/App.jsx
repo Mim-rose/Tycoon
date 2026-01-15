@@ -9,12 +9,14 @@ function App() {
 
   return (
     <>
-      <div>
-        <Header/>
-        <AppRoutes/>
-        <Footer/>
+      <div className="flex flex-col min-h-screen">
+      <Header />
+      <main className="flex-grow">
+        <AppRoutes />
+      </main>
+      <Footer />
+    </div>
 
-      </div>
       
     </>
   )
