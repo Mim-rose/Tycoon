@@ -18,7 +18,7 @@ const SponsorBanner = () => {
 
         {/* Clickable Banner */}
         <a
-          href="https://safortravels.com"
+          href="https://safor-steel.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
           className="block group relative overflow-hidden rounded-xl shadow-lg"
